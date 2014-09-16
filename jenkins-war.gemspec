@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |s|
   s.name = "jenkins-war"
-  s.version = "1.579"
+  s.version = "1.580"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Charles Lowell"]
-  s.date = "2014-09-12"
+  s.date = "2014-09-17"
   s.description = "download and install a specific version of the jenkins war file which can be used for either running a server, or for plugin development"
   s.email = ["cowboyd@thefrontside.net"]
   s.executables = ["jenkins.war"]
