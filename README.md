@@ -4,7 +4,7 @@ This gem can be used for either running a Jenkins server, or for plugin developm
 
 It contains the war file for Jenkins and must be run with JRuby (at least 1.6 according to [this](https://github.com/jenkinsci/jenkins.rb/wiki/Getting-Started-With-Ruby-Plugins)).
 
-Current version : **1.580**.
+Current version : **1.565.3**.
 
 ## Installation
 

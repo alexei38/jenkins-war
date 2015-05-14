@@ -1,7 +1,7 @@
 require 'fileutils'
 module Jenkins
   module War
-    VERSION = '1.580'
+    VERSION = '1.565.3'
     LOCATION = File.expand_path(File.join(File.dirname(__FILE__), "jenkins.war"))
 
     module_function
